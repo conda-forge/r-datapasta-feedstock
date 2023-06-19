@@ -1,11 +1,11 @@
-About r-datapasta
-=================
+About r-datapasta-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-datapasta-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/milesmcbain/datapasta
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-datapasta-feedstock/blob/main/LICENSE.txt)
 
 Summary: RStudio addins and R functions that make copy-pasting vectors and tables to text painless.
 
